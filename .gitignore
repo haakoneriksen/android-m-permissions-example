@@ -25,3 +25,13 @@ proguard/
 
 # Log Files
 *.log
+
+# IntelliJ IDEA/Android Studio Files
+/.idea/*.xml
+/.idea/libraries
+/.idea/copyright
+/.idea/.name
+/.idea/inspectionProfiles/*
+*.iml
+
+.DS_Store
