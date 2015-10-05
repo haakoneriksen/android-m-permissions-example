@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android Permissions Example</string>
+    <string name="location">Location:</string>
+    <string name="getlocation">Get Location</string>
+    <string name="unknownlocation">Unknown location</string>
+    <string name="wifiname">Wifi Name:</string>
+    <string name="updatewifi">Get Wifi Name</string>
 </resources>
